@@ -1,3 +1,4 @@
+#credits-codewithharry and geeksforgeeks
 import pyttsx3 #python -m pip install pyttsx3 #python -m pip install speechRecognition
 import datetime
 import wikipedia #python -m pip install wikipedia
